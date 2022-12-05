@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.748fae9f.css",
-    "main.js": "/static/js/main.76f8bd34.js",
+    "main.css": "/static/css/main.74fcc72e.css",
+    "main.js": "/static/js/main.30700f04.js",
     "static/js/787.0fe84981.chunk.js": "/static/js/787.0fe84981.chunk.js",
+    "static/media/portfolio-line2.png": "/static/media/portfolio-line2.c688d29c7b96a57ca356.png",
     "static/media/contact-line1.png": "/static/media/contact-line1.78ff28845d6a6109c111.png",
     "static/media/contact-line2.png": "/static/media/contact-line2.e55259d24afe74cf1a89.png",
+    "static/media/portfolio-line1.png": "/static/media/portfolio-line1.947669765401d23c498b.png",
     "static/media/RobotoCondensed-Regular.ttf": "/static/media/RobotoCondensed-Regular.fc3d2f2e3a203d0037c1.ttf",
     "static/media/BebasNeue-Regular.ttf": "/static/media/BebasNeue-Regular.12e3683f9192436a7be8.ttf",
     "static/media/nav-line4.png": "/static/media/nav-line4.cab1b3ca10a1cc74b070.png",
@@ -12,12 +14,12 @@
     "static/media/nav-line6.png": "/static/media/nav-line6.774bd05f64943893cb7c.png",
     "static/media/nav-line1.png": "/static/media/nav-line1.feabac5d19068f081176.png",
     "index.html": "/index.html",
-    "main.748fae9f.css.map": "/static/css/main.748fae9f.css.map",
-    "main.76f8bd34.js.map": "/static/js/main.76f8bd34.js.map",
+    "main.74fcc72e.css.map": "/static/css/main.74fcc72e.css.map",
+    "main.30700f04.js.map": "/static/js/main.30700f04.js.map",
     "787.0fe84981.chunk.js.map": "/static/js/787.0fe84981.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.748fae9f.css",
-    "static/js/main.76f8bd34.js"
+    "static/css/main.74fcc72e.css",
+    "static/js/main.30700f04.js"
   ]
 }
